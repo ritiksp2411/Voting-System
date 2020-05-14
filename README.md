@@ -10,3 +10,4 @@ Start mongodb, if not installed already refer to the docs [here](https://docs.mo
 Next cd into the server folder and type ```npm start```<br>
 Once the application has started up go to your browser and type in <b>localhost:9000</b> to view the application.
 
+![](images/Screenshot(3))
